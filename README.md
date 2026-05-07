@@ -143,8 +143,17 @@ We've published an ebook: **"Prompts Without Filler"** — a comprehensive Arabi
 
 **Keywords:** Arabic AI Prompts, برومبتات عربي, ChatGPT Prompts Arabic, Claude Prompts, Gemini Prompts, Grok Prompts, Prompt Engineering Arabic, AI Prompts Telegram, هندسة البرومبتات, برومبتات تشات جي بي تي, برومبتات كلود, AI Prompt Library Arabic.
 ---
+
 ## 🌐 الموقع الرئيسي
 
 الدليل الكامل للقنوات التقنية العربية:
 
 https://xr7cqa.github.io
+---
+
+## 🌐 الصفحة التعريفية
+
+صفحة تعريفية مفصلة عن قناة برومبتات ChatGPT وClaude وGemini وGrok بالعربية:
+
+https://xr7cqa.github.io/arabic-ai-prompts.html
+
